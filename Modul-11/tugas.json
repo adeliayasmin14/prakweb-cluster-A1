@@ -1,0 +1,28 @@
+{
+    "biodata" : {
+        "nama" : {
+            "Awal" : "Adelia",
+            "Akhir" : "Yasmin"
+        },
+        "jenisKelamin" : "Perempuan",
+        "status" : "Mahasiswa",
+        "saudara" : {
+            "nama" : "Fadil"
+        },
+        "orangtua" : {
+            "hobi" : ["Main Game, Nonton"]
+        },
+        "alamat" : {
+            "Perum" : "Raja Basa Permai",
+            "Kecamatan" : "Rajabasa",
+            "Kota" : "Bandar Lampung",
+            "Provinsi" : "Lampung"
+        },
+        "sosialmedia" : {
+            "intagram" : "adllysmn_",
+            "line" : "@adelia708",
+            "github" : "adeliayasmin14"
+        }
+
+    }
+}
